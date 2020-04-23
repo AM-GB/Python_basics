@@ -1,82 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88df1d79-24fc-4377-8c2e-d35d31288737" name="Default Changelist" comment="">
+    <list default="true" id="266d2f01-e684-4375-9fce-d2c0c6c34297" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guess_the_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/guess_the_number.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="G:\GeekBrains\Python_basics\HW\Python_basics\helloword\.idea" />
-      </set>
-    </option>
-  </component>
-  <component name="ProjectId" id="1arSxxBwam3YwvEE4UMT5K1Efb1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.guess_the_number">
-    <configuration name="HW2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager">
+    <configuration name="guess_the_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="helloword" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\anato\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="guess_the_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="helloword" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\anato\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -93,7 +45,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.guess_the_number" />
-        <item itemvalue="Python.HW2" />
       </list>
     </recent_temporary>
   </component>
@@ -101,26 +52,31 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="88df1d79-24fc-4377-8c2e-d35d31288737" name="Default Changelist" comment="" />
-      <created>1587492469158</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1587492469158</updated>
-    </task>
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="132" y="128" width="666" height="819" key="#guess_the_number" timestamp="1587645143377">
+      <screen x="67" y="27" width="1613" height="1023" />
+    </state>
+    <state x="132" y="128" width="666" height="819" key="#guess_the_number/67.27.1613.1023@67.27.1613.1023" timestamp="1587645143377" />
+    <state width="839" height="269" key="GridCell.Tab.0.bottom" timestamp="1587645226063">
+      <screen x="67" y="27" width="1613" height="1023" />
+    </state>
+    <state width="839" height="269" key="GridCell.Tab.0.bottom/67.27.1613.1023@67.27.1613.1023" timestamp="1587645226063" />
+    <state width="839" height="269" key="GridCell.Tab.0.center" timestamp="1587645226061">
+      <screen x="67" y="27" width="1613" height="1023" />
+    </state>
+    <state width="839" height="269" key="GridCell.Tab.0.center/67.27.1613.1023@67.27.1613.1023" timestamp="1587645226061" />
+    <state width="839" height="269" key="GridCell.Tab.0.left" timestamp="1587645226060">
+      <screen x="67" y="27" width="1613" height="1023" />
+    </state>
+    <state width="839" height="269" key="GridCell.Tab.0.left/67.27.1613.1023@67.27.1613.1023" timestamp="1587645226060" />
+    <state width="839" height="269" key="GridCell.Tab.0.right" timestamp="1587645226062">
+      <screen x="67" y="27" width="1613" height="1023" />
+    </state>
+    <state width="839" height="269" key="GridCell.Tab.0.right/67.27.1613.1023@67.27.1613.1023" timestamp="1587645226062" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 #Загадать случайное число
 import random
 
-number = rangom.randint(1, 100)
+number = random.randint(1, 100)
 print(number)
 
