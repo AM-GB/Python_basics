@@ -14,7 +14,6 @@ def creat_folder(name):
     except FileExistsError:
         print('Такая пака уже есть')
 
-
 def get_list(folders_only=False):
     result = os.listdir()
     if folders_only:
@@ -44,13 +43,5 @@ def save_info(message):
 
 
 if __name__ == '__main__':
-    print(__name__)
-    creat_folder('dsfsd')
-    delete_file('dsfsd')
-    crea_file('gg.txt')
-    delete_file('gg.txt')
-    creat_folder('f')
-    copy_file('f', 'new_f')
-    save_info('abc')
 
-    print('\nКонец')
+    print(__name__)
