@@ -1,4 +1,4 @@
-# put your python code here
+# stepik 2.6 task 10
 n = []
 while True:
   st = [i for i in input().split()]
